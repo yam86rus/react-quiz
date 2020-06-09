@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import classes from './Auth.module.css'
 import Button from '../../components/UI/Button/Button'
-import Input from '../../components/UI/Input/input'
+import Input from '../../components/UI/Input/Input'
 import is from 'is_js'
 
 
